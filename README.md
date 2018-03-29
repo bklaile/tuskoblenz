@@ -763,6 +763,66 @@ Es folgt eine Liste aller Spiele der TuS Koblenz, die ich in meinem Leben besuch
 	<li>10.05.2013: TuS Koblenz - FSV Frankfurt II 1:1 (0:0)</li>
 	<li>11.05.2013: Alte Herren St.Sebastian - Traditionsmannschaft 1:4 (1:1)</li>
 	<li>11.05.2013: SG 2000 Mülheim-Kärlich - TuS Koblenz U23 0:3 (0:1)</li>
+	<li>18.05.2013: TuS Koblenz - SC Idar-Oberstein 5:2 (4:0)</li>
+	<li>06.07.2013: TuS Koblenz - SV Wehen-Wiesbaden 0:1 (0:0) (Test in Gückingen)</li>
+	<li>12.07.2013: Ata Sport Urmitz - TuS Koblenz U23 1:2 (Test)</li>
+	<li>17.07.2013: TuS Koblenz - Schalke 04 1:4 (Test)</li>
+	<li>23.07.2013: FC Andernach - TuS Koblenz 2:8 (Test)</li>
+	<li>26.07.2013: TuS Koblenz - Kickers Offenbach 0:2 (0:2)</li>
+	<li>28.07.2013: TuS Koblenz U23 - SC Idar-Oberstein U23 ?? (Test, Sportfest VfR Dickenschied)</li>
+	<li>11.08.2013: TuS Koblenz - SC Freiburg U23 1:1 (1:1)</li>
+	<li>15.08.2013: TuS Koblenz U23 - SG Eintracht Mendig/Bell 4:1 (1:0)</li>
+	<li>17.08.2013: KSV Hessen Kassel - TuS Koblenz 1:0 (1:0)</li>
+	<li>23.08.2013: TuS Koblenz U23 - FC Karbach 0:2 (0:0)</li>
+	<li>30.08.2013: SV Eintracht Trier - TuS Koblenz 2:0 (2:0)</li>
+	<li>01.09.2013: TuS Schweich - TuS Koblenz U23 1:2</li>
+	<li>03.09.2013: TuS Koblenz - 1.FC Kaiserslautern U23 1:2 (1:1)</li>
+	<li>05.09.2013: TuS Koblenz U19 - SC Freiburg 1:4 (0:2) (DFB-Pokal, 1.Runde)</li>
+	<li>08.09.2013: SC Pfullendorf - TuS Koblenz 1:2 (1:1)</li>
+	<li>14.09.2013: SVN Zweibrücken - TuS Koblenz 1:1 (0:0)</li>
+	<li>22.09.2013: TuS Koblenz - VfR Wormatia Worms 3:3 (3:1)</li>
+	<li>25.09.2013: FC Alemannia Plaidt - TuS Koblenz 0:1 (0:0) (Rheinlandpokal, 2.Runde)</li>
+	<li>28.09.2013: TuS Koblenz U23 - Wiedbachtaler Sportfreunde Neitersen 1:0 (0:0)</li>
+	<li>29.09.2013: TSG Hoffenheim U23 - TuS Koblenz 0:2 (0:0)</li>
+	<li>05.10.2013: TuS Mayen - TuS Koblenz U23 (Abbruch nach 40min, da sich Schiedsrichter verletzt hatte)</li>
+	<li>06.10.2013: TuS Koblenz - KSV Baunatal 3:0 (2:0)</li>
+	<li>09.10.2013: FC Dorndorf - TuS Koblenz 0:1 (0:1) (Test)</li>
+	<li>11.10.2013: TuS Koblenz U23 - SG 2000 Mülheim-Kärlich 4:1 (2:0)</li>
+	<li>16.10.2013: SG Eintracht Mendig/Bell - TuS Koblenz 1:2 (0:1)</li>
+	<li>18.10.2013: TSV Emmelshausen - TuS Koblenz U23 0:0 (0:0)</li>
+	<li>19.10.2013: SV Waldhof Mannheim - TuS Koblenz 2:2 (1:0)</li>
+	<li>26.10.2013: TuS Koblenz U23 - SV Morbach 0:2 (0:0)</li>
+	<li>29.10.2013: TuS Koblenz - SSV Ulm von 1846 Fußball 3:1 (1:1)</li>
+	<li>01.11.2013: SG Sonnenhof Großaspach - TuS Koblenz 1:0 (1:0)</li>
+	<li>02.11.2013: TuS RW Koblenz - TuS Koblenz U23 3:0</li>
+	<li>08.11.2013: TuS Koblenz - 1.FSV Mainz 05 U23 0:0 (0:0)</li>
+	<li>10.11.2013: TuS Koblenz U23 - FSV Trier-Tarforst 3:1 (1:0)</li>
+	<li>13.11.2013: Spvgg EGC Wirges - TuS Koblenz 0:2 (0:0) (Rheinlandpokal, Achtelfinale)</li>	
+	<li>16.11.2013: Spvgg EGC Wirges - TuS Koblenz U23 3:0 (1:0) </li>	
+	<li>19.11.2013: TuS Mayen - TuS Koblenz U23 2:1 (Wiederholungsspiel)</li>
+	<li>24.11.2013: TuS Koblenz U23 - SG Lüxem/Wittlich 3:0 (1:0)</li>	
+	<li>30.11.2013: TuS Koblenz - FC Homburg 2:1 (2:1)</li>
+	<li>08.12.2013: Kickers Offenbach - TuS Koblenz 4:0 (2:0)</li>	
+	<li>23.02.2014: SC Freiburg U23 - TuS Koblenz 4:1 (4:1)</li>	
+	<li>26.02.2014: TuS Koblenz U23 - SG Badem/Kyllburg 2:2 (1:1)</li>	
+	<li>01.03.2014: TuS Koblenz - KSV Hessen Kassel 0:1 (0:0)</li>
+	<li>08.03.2014: Spvgg Neckarelz - TuS Koblenz 0:0 (0:0)</li>
+	<li>15.03.2014: TuS Koblenz U23 - TuS Schweich 5:0 (1:0)</li>	
+	<li>16.03.2014: TuS Koblenz - SV Eintracht Trier 1:0 (0:0)</li>
+	<li>23.03.2014: TuS Koblenz U23 - FSV Trier-Tarforst 5:1 (2:1)</li>
+	<li>26.03.2014: TuS Koblenz - SC Pfullendorf 3:0 (1:0)</li>
+	<li>30.03.2014: TuS Koblenz - SVN Zweibrücken 1:2 (1:1)</li>
+	<li>02.04.2014: TuS Koblenz - SV Eintracht Trier 4:6 n.E. (1:1, 1:1) (Rheinlandpokal, Viertelfinale)</li>
+	<li>06.04.2014: TuS Koblenz U23 - SG Bad Breisig 2:1</li>
+	<li>13.04.2014: TuS Koblenz - TSG Hoffenheim U23 1:3 (0:1)</li>
+	<li>19.04.2014: KSV Baunatal - TuS Koblenz 1:0 (1:0)</li>
+	<li>26.04.2014: TuS Koblenz U23 - TSV Emmelshausen 0:4 (0:1)</li>
+	<li>27.04.2014: TuS Koblenz - SV Waldhof Mannheim 0:0 (0:0)</li>
+	<li>11.05.2014: TuS Koblenz - SG Sonnenhof Großaspach 1:4 (1:2)</li>
+	<li>24.05.2014: TuS Koblenz - SG Eintracht Frankfurt U23 0:4 (0:2)</li>
+	<li>24.05.2014: SG Lüxem/Wittlich - TuS Koblenz U23 0:2</li>
 </ol>
+
+
 
 
