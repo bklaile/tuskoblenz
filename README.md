@@ -531,7 +531,7 @@ Es folgt eine Liste aller Spiele der TuS Koblenz, die ich in meinem Leben besuch
 	<li>02.09.2011: FC Karbach - TuS Koblenz U23 4:1 (2:0)</li>
 	<li>03.09.2011: SF Höhr-Grenzhausen - TuS Koblenz U11 1:14</li>
 	<li>03.09.2011: TuS Koblenz - Wuppertaler SV 1:1</li>
-	<li>06.09.2011: SG Miehlen/Nastätten - TuS Koblenz 0:4 (0:2)</li>
+	<li>06.09.2011: SG Miehlen/Nastätten - TuS Koblenz 0:4 (0:2) (Test)</li>
 	<li>10.09.2011: 1.FC Kaiserslautern II - TuS Koblenz 0:0 (0:0)</li>
 	<li>11.09.2011: TuS Koblenz U23 - FSV Trier-Tarforst 3:4 (0:1)</li>
 	<li>16.09.2011: SG Bad Breisig - TuS Koblenz U23 1:0 (1:0)</li>
