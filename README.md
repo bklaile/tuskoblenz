@@ -852,6 +852,37 @@ Es folgt eine Liste aller Spiele der TuS Koblenz, die ich in meinem Leben besuch
 	<li>29.05.2016: SV Morlautern - TuS Koblenz U23 4:2 (2:2)(Oberliga-Relegation)</li>
 	<li>01.06.2016: TuS Koblenz U23 - SG Mettlach 0:2 (0:1) (Oberliga-Relegation)</li>
 	<li>18.06.2016: TuS Koblenz Team 2004 - TuS Koblenz Team 2006 0:5 (0:1)</li>
+	<li>06.08.2016: TuS Koblenz U23 - SV Morbach 1:1 (0:0)</li>
+	<li>17.08.2016: FK Pirmasens - TuS Koblenz 1:1 (1:1)</li>
+	<li>20.08.2016: TuS Koblenz - SC Teutonia Watzenborn-Steinberg 1:0 (0:0)</li>
+	<li>26.08.2016: FC Nöttingen - TuS Koblenz 1:2 (0:1)</li> 
+	<li>03.09.2016: SV Eintracht Trier - TuS Koblenz 0:3 (0:1)</li>
+	<li>07.09.2016: DFK Kruft/Kretz - TuS Koblenz 0:7 (0:2) (Rheinlandpokal, 2.Runde)</li>
+	<li>10.09.2016: TuS Koblenz - Stuttgarter Kickers 1:1 (0:1)</li>
+	<li>27.09.2016: SV Rheinland Mayen - TuS Koblenz 0:4 (0:2) (Rheinlandpokal, 3.Runde)</li>
+	<li>30.09.2016: TuS Koblenz - FC Homburg 0:2 (0:0)</li>
+	<li>08.10.2016: TuS Koblenz - KSV Hessen Kassel 1:2 (1:1)</li>
+	<li>12.10.2016: SC Grün-Weiß Vallendar - TuS Koblenz 0:6 (Rheinlandpokal, Achtelfinale)</li>
+	<li>22.10.2016: TuS Koblenz - TSG Hoffenheim U23 1:2 (1:0)</li>
+	<li>29.10.2016: TuS Koblenz - Kickers Offenbach 2:1 (1:0)</li>
+	<li>01.11.2016: VfB Stuttgart U23 - TuS Koblenz 3:0 (0:0)</li>
+	<li>06.11.2016: TuS Koblenz - VfR Wormatia Worms 1:0 (0:0)</li>
+	<li>12.11.2016: TuS Koblenz - FC Astoria Walldorf 1:1 (1:1)</li>
+	<li>19.11.2016: 1.FC Saarbrücken - TuS Koblenz 1:1 (0:0)</li>
+	<li>23.11.2016: Eisbachtaler Sportfreunde - TuS Koblenz 0:2 (0:1) (Rheinlandpokal, Viertelfinale)</li>
+	<li>26.11.2016: TuS Koblenz - FK Pirmasens 1:0 (0:0)</li>
+	<li>03.12.2016: SC Teutonia Watzenborn-Steinberg - TuS Koblenz 0:2 (0:1)</li>
+	<li>10.12.2016: TuS Koblenz - FC Nöttingen 1:0 (0:0)</li>
+	<li>25.02.2017: TuS Koblenz - SV Eintracht Trier 1:0 (0:0)</li>
+	<li>12.03.2017: TuS Koblenz - SV Waldhof Mannheim 0:1 (0:0)</li>
+	<li>25.03.2017: TuS Koblenz - 1.FC Kaiserslautern U23 4:1 (3:1)</li>
+	<li>08.04.2017: TuS Koblenz - TSV Steinbach 2:1 (0:0)</li>
+	<li>23.04.2017: TuS Koblenz - SSV Ulm von 1846 Fußball 1:2 (0:1)</li>
+	<li>02.05.2017: FC Karbach - TuS Koblenz 1:2 (0:1) (Rheinlandpokal, Halbfinale)</li>
+	<li>13.05.2017: TuS Koblenz - VfB Stuttgart U23 2:5 (2:2)</li>
+	<li>20.05.2017: VfR Wormatia Worms - TuS Koblenz 2:1 (2:0)</li>
+	<li>25.05.2017: TuS Koblenz - SV Eintracht Trier 2:1 (2:0) (Rheinlandpokal, Finale)</li>
+	<li>10.06.2017: TuS Koblenz U17 - SV Eintracht Trier U17 6:1 (4:0) (Rheinlandpokal, Finale)</li>
 </ol>
 
 
