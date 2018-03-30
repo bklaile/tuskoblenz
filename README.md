@@ -821,7 +821,6 @@ Es folgt eine Liste aller Spiele der TuS Koblenz, die ich in meinem Leben besuch
 	<li>11.05.2014: TuS Koblenz - SG Sonnenhof Großaspach 1:4 (1:2)</li>
 	<li>24.05.2014: TuS Koblenz - SG Eintracht Frankfurt U23 0:4 (0:2)</li>
 	<li>24.05.2014: SG Lüxem/Wittlich - TuS Koblenz U23 0:2</li>
-
 	<li>15.08.2015: TuS Koblenz U23 - SG Schoden 1:2 (1:1)</li>
 	<li>21.08.2015: TuS Koblenz - FSV Salmrohr 3:0 (2:0)</li>
 	<li>25.08.2015: VfB Borussia Neunkirchen - TuS Koblenz 0:1 (0:0)</li>
