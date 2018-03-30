@@ -674,7 +674,7 @@ Ab der Saison 2013/14 bin ich, vor allem was die Jugendspiele angeht, extrem kü
 	<li>04.09.2012: TuS Koblenz - FC Sonnenhof Großaspach 1:1 (1:1)</li>
 	<li>07.09.2012: VfB Linz - TuS Koblenz U23 2:1 (2:0)</li>
 	<li>08.09.2012: SSV Ulm von 1846 Fußball - TuS Koblenz 3:0 (2:0)</li>
-	<li>12.09.2012: TuS Oberwinter - TuS Koblenz 2:0 (1:0)</li>
+	<li>12.09.2012: TuS Oberwinter - TuS Koblenz 2:0 (1:0) (Rheinlandpokal, 2.Runde)</li>
 	<li>14.09.2012: TuS Koblenz U23 - TuS Mosella Schweich 2:0 (0:0)</li>
 	<li>15.09.2012: SV Rot-Weiß Rheinbreitbach - TuS Koblenz U14 3:3 (2:2)</li>
 	<li>16.09.2012: TuS Koblenz - TSG Hoffenheim II 1:1 (0:1)</li>
