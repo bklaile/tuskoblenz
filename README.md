@@ -821,8 +821,16 @@ Es folgt eine Liste aller Spiele der TuS Koblenz, die ich in meinem Leben besuch
 	<li>11.05.2014: TuS Koblenz - SG Sonnenhof Großaspach 1:4 (1:2)</li>
 	<li>24.05.2014: TuS Koblenz - SG Eintracht Frankfurt U23 0:4 (0:2)</li>
 	<li>24.05.2014: SG Lüxem/Wittlich - TuS Koblenz U23 0:2</li>
+	<li></li>
+	<li></li>
+	<li></li>
+	<li></li>
+	<li></li>
+	<li></li>
+	<li></li>
+	<li></li>
+	<li></li>
+	<li>28.03.2018: TuS Koblenz - VfB Stuttgart U23 0:0 (0:0)</li>	
 </ol>
-
-
 
 
