@@ -821,16 +821,38 @@ Es folgt eine Liste aller Spiele der TuS Koblenz, die ich in meinem Leben besuch
 	<li>11.05.2014: TuS Koblenz - SG Sonnenhof Großaspach 1:4 (1:2)</li>
 	<li>24.05.2014: TuS Koblenz - SG Eintracht Frankfurt U23 0:4 (0:2)</li>
 	<li>24.05.2014: SG Lüxem/Wittlich - TuS Koblenz U23 0:2</li>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li>28.03.2018: TuS Koblenz - VfB Stuttgart U23 0:0 (0:0)</li>	
+
+	<li>15.08.2015: TuS Koblenz U23 - SG Schoden 1:2 (1:1)</li>
+	<li>21.08.2015: TuS Koblenz - FSV Salmrohr 3:0 (2:0)</li>
+	<li>25.08.2015: VfB Borussia Neunkirchen - TuS Koblenz 0:1 (0:0)</li>
+	<li>28.08.2015: TuS Koblenz - FC Karbach 2:0 (1:0)</li>
+	<li>02.09.2015: SG Vordereifel - TuS Koblenz 1:3 (0:2) (Rheinlandpokal, 2.Runde)</li>
+	<li>06.09.2015: TuS Koblenz - FC Arminia Ludwigshafen 3:0 (3:0)</li>
+	<li>11.09.2015: SV Röchling Völklingen - TuS Koblenz 2:3 (1:1)</li>
+	<li>19.09.2015: TuS Koblenz - TSV Schott Mainz 2:0 (2:0)</li>
+	<li>23.09.2015: TuS Kirchberg - TuS Koblenz 2:1 (1:0) (Rheinlandpokal, 3.Runde)</li>
+	<li>26.09.2015: FC Hertha Wiesbach - TuS Koblenz 0:1 (0:1) (kein Ground, da von außerhalb des Stadions geschaut)</li>
+	<li>03.10.2015: TuS Koblenz - Spvgg Burgbrohl 3:1 (1:1)</li>
+	<li>11.10.2015: SV Gonsenheim - TuS Koblenz 1:4 (1:3)</li>
+	<li>24.10.2015: SVN Zweibrücken - TuS Koblenz 1:1 (0:0) (nachträglich annuliert, da Zweibrücken zurückgezogen hat)</li>
+	<li>25.10.2015: TuS Koblenz U19 - Hertha BSC Berlin U19 1:5 (0:2) (DFB-Pokal, 2.Runde)</li>
+	<li>31.10.2015: TuS Koblenz - TSG Pfeddersheim 4:1 (2:1)</li>
+	<li>06.11.2015: FK Pirmasens II - TuS Koblenz 3:1 (1:0)</li>
+	<li>21.11.2015: TuS Koblenz - SC Hauenstein 1:2 (1:1)</li>
+	<li>28.11.2015: TuS Koblenz - Spvgg Wirges 1:1 (1:0)</li>
+	<li>04.12.2015: SV Elversberg II - TuS Koblenz 1:2 (0:1)</li>
+	<li>27.02.2016: TuS Koblenz - FSV Jägersburg 4:1 (1:0)</li>
+	<li>23.03.2016: FC Arminia Ludwigshafen - TuS Koblenz 2:2 (0:2)</li>
+	<li>26.03.2016: TuS Koblenz - SV Röchling Völklingen 1:1 (0:0)</li>
+	<li>02.04.2016: TSV Schott Mainz - TuS Koblenz 1:3 (1:2)</li>
+	<li>09.04.2016: TuS Koblenz - FC Hertha Wiesbach 2:0 (2:0)</li>
+	<li>30.04.2016: SV Mehring - TuS Koblenz 0:0 (0:0)</li>
+	<li>10.05.2016: TSG Pfeddersheim - TuS Koblenz 0:1 (0:1) (Aufstieg in die Regionalliga)</li>
+	<li>19.05.2016: SC Hauenstein - TuS Koblenz 0:1 (0:1)</li>
+	<li>21.05.2016: SG 99 Andernach - TuS Koblenz U23 0:4</li>
+	<li>29.05.2016: SV Morlautern - TuS Koblenz U23 4:2 (2:2)(Oberliga-Relegation)</li>
+	<li>01.06.2016: TuS Koblenz U23 - SG Mettlach 0:2 (0:1) (Oberliga-Relegation)</li>
+	<li>18.06.2016: TuS Koblenz Team 2004 - TuS Koblenz Team 2006 0:5 (0:1)</li>
 </ol>
 
 
