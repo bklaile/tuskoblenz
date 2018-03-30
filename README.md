@@ -821,6 +821,47 @@ Es folgt eine Liste aller Spiele der TuS Koblenz, die ich in meinem Leben besuch
 	<li>11.05.2014: TuS Koblenz - SG Sonnenhof Großaspach 1:4 (1:2)</li>
 	<li>24.05.2014: TuS Koblenz - SG Eintracht Frankfurt U23 0:4 (0:2)</li>
 	<li>24.05.2014: SG Lüxem/Wittlich - TuS Koblenz U23 0:2</li>
+	<li>16.07.2014: TuS Koblenz - 1.FC Köln 0:0 (0:0)</li>
+	<li>02.08.2014: FC Astoria Walldorf - TuS Koblenz 5:1 (2:1)</li>
+	<li>06.08.2014: TuS Koblenz - SV Elversberg 0:1 (0:0)</li>
+	<li>09.08.2014: KSV Baunatal - TuS Koblenz 1:0 (1:0)</li>
+	<li>16.08.2014: TuS Koblenz - SVN Zweibrücken 1:1 (1:0)</li>
+	<li>17.08.2014: TuS Koblenz U23 - TuS Oberwinter 2:0 (0:0)</li>
+	<li>22.08.2014: FC Nöttingen - TuS Koblenz 0:2 (0:2)</li>
+	<li>27.08.2014: TuS Koblenz - TSG Hoffenheim U23 0:0 (0:0)</li>
+	<li>31.08.2014: TuS Koblenz - SV Waldhof Mannheim 1:2 (0:0)</li>
+	<li>14.09.2014: TuS RW Koblenz - TuS Koblenz U23 3:3</li>
+	<li>17.09.2014: TuS Koblenz U23 - FV Engers 1:0 (0:0)</li>
+	<li>21.09.2014: TuS Koblenz U23 - SV Eintracht Trier U23 2:0 (2:0)</li>
+	<li>22.09.2014: SV Eintracht Trier - TuS Koblenz 0:0 (0:0)</li>
+	<li>27.09.2014: TuS Koblenz - Kickers Offenbach 1:2 (1:0)</li>
+	<li>12.10.2014: TuS Koblenz - FK Pirmasens 2:1 (1:1)</li>
+	<li>18.10.2014: Spvgg Neckarelz - TuS Koblenz 1:2 (0:1)</li>
+	<li>19.10.2014: TuS Koblenz U23 - SG Bad Breisig 0:2</li>
+	<li>24.10.2014: TuS Koblenz - VfR Wormatia Worms 0:2 (0:1)</li>
+	<li>26.10.2014: SV Morbach - TuS Koblenz 0:3 (0:2)</li>
+	<li>28.10.2014: TSV Emmelshausen - TuS Koblenz 1:2 (Rheinlandpokal, 3.Runde)</li>
+	<li>01.11.2014: FC Homburg - TuS Koblenz 2:1 (1:1)</li>
+	<li>07.11.2014: TuS Mayen - TuS Koblenz U23 0:1</li>
+	<li>09.11.2014: TuS Koblenz - SC Freiburg U23 0:1 (0:1)</li>
+	<li>12.11.2014: FC Karbach - TuS Koblenz 2:5 n.E. (2:2, 2:2) (Rheinlandpokal, Achtelfinale)</li>
+	<li>21.11.2014: TuS Koblenz - FC Astoria Walldorf 1:1 (0:1)</li>
+	<li>05.12.2014: TuS Koblenz - KSV Baunatal 1:2 (0:0)</li>
+	<li>17.01.2015: SG Eintracht Mendig/Bell - TuS Koblenz 0:4 (0:1)(Test)</li>
+	<li>08.03.2015: TuS Koblenz - FC Nöttingen 0:1 (0:0)</li>
+	<li>15.03.2015: TSG Hoffenheim U23 - TuS Koblenz 2:0 (0:0)</li>
+	<li>21.03.2015: TuS Koblenz U23 - TuS RW Koblenz 4:0 (1:0)</li>
+	<li>25.03.2015: VfB Wissen - TuS Koblenz 7:8 n.E. (1:1, 0:1) (Rheinlandpokal, Viertelfinale)</li>
+	<li>28.03.2015: TuS Koblenz - 1.FC Saarbrücken 0:1 (0:1)</li>
+	<li>10.04.2015: Kickers Offenbach - TuS Koblenz 3:0 (2:0)</li>
+	<li>17.04.2015: TuS Koblenz - KSV Hessen Kassel 1:0 (1:0)</li>
+	<li>21.04.2015: 1.FC Kaiserslautern U23 - TuS Koblenz 3:1 (2:1)</li>
+	<li>25.04.2015: FK Pirmasens - TuS Koblenz 4:0 (2:0)</li>
+	<li>29.04.2015: FSV Salmrohr - TuS Koblenz 1:0 (0:0) (Rheinlandpokal, Halbfinale)</li>
+	<li>03.05.2015: TuS Koblenz - Spvgg Neckarelz 1:1 (1:1)</li>
+	<li>09.05.2015: VfR Wormatia Worms - TuS Koblenz 2:0 (2:0)</li>
+	<li>16.05.2015: TuS Koblenz - FC Homburg 1:1 (0:1)</li>
+	<li>23.05.2015: SC Freiburg U23 - TuS Koblenz 5:2 (3:1)</li>
 	<li>15.08.2015: TuS Koblenz U23 - SG Schoden 1:2 (1:1)</li>
 	<li>21.08.2015: TuS Koblenz - FSV Salmrohr 3:0 (2:0)</li>
 	<li>25.08.2015: VfB Borussia Neunkirchen - TuS Koblenz 0:1 (0:0)</li>
