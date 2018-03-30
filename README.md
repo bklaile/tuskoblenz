@@ -912,12 +912,14 @@ Ab der Saison 2013/14 bin ich, vor allem was die Jugendspiele angeht, extrem kü
 	<li>29.10.2016: TuS Koblenz - Kickers Offenbach 2:1 (1:0)</li>
 	<li>01.11.2016: VfB Stuttgart U23 - TuS Koblenz 3:0 (0:0)</li>
 	<li>06.11.2016: TuS Koblenz - VfR Wormatia Worms 1:0 (0:0)</li>
+	<li>09.11.2016: SV Pfaffendorf - TuS Koblenz III 3:2 (Test)</li>
 	<li>12.11.2016: TuS Koblenz - FC Astoria Walldorf 1:1 (1:1)</li>
 	<li>19.11.2016: 1.FC Saarbrücken - TuS Koblenz 1:1 (0:0)</li>
 	<li>23.11.2016: Eisbachtaler Sportfreunde - TuS Koblenz 0:2 (0:1) (Rheinlandpokal, Viertelfinale)</li>
 	<li>26.11.2016: TuS Koblenz - FK Pirmasens 1:0 (0:0)</li>
 	<li>03.12.2016: SC Teutonia Watzenborn-Steinberg - TuS Koblenz 0:2 (0:1)</li>
 	<li>10.12.2016: TuS Koblenz - FC Nöttingen 1:0 (0:0)</li>
+	<li>04.02.2017: Alm-Cup, Asterstein (Vorrunde, TuS Koblenz III)</li>
 	<li>25.02.2017: TuS Koblenz - SV Eintracht Trier 1:0 (0:0)</li>
 	<li>12.03.2017: TuS Koblenz - SV Waldhof Mannheim 0:1 (0:0)</li>
 	<li>25.03.2017: TuS Koblenz - 1.FC Kaiserslautern U23 4:1 (3:1)</li>
