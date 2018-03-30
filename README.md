@@ -2,6 +2,10 @@
 
 Es folgt eine Liste aller Spiele der TuS Koblenz, die ich in meinem Leben besucht habe. Es handelt sich nicht nur um Spiele der ersten Mannschaft, sondern um Spiele jeder Mannschaft, die die TuS Koblenz seit dem Jahr 2006 am Spielbetrieb hat teilnehmen lassen. 
 
+Bis in die Saison 2012/13 habe ich die Liste jederzeit aktuell gehalten. Danach ist es sehr gut möglich, dass nicht alle Spiele gelistet sind, da ich die Spiele im Nachgang auf Basis von Eintrittskarten, Fotos, Geschichten, Erinnerungen rekonstruieren musste.
+
+Ab der Saison 2013/14 bin ich, vor allem was die Jugendspiele angeht, extrem kürzer getreten. 120 Spiele pro Saison lassen sich nur schwer mit einer Familie vereinbaren. :-) Da muss man Prioritäten setzen.
+
 ## Meine Spiele
 
 <ol>
