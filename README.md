@@ -90,21 +90,21 @@ Ab der Saison 2013/14 bin ich, vor allem was die Jugendspiele angeht, extrem kü
 	<li>28.10.2007: TuS Koblenz - VfL Osnabrück 1:0 (0:0)</li>
 	<li>31.10.2007: TuS Koblenz - DSC Arminia Bielefeld 1:2 n.V. (1:1;1:1) (DFB-Pokal, 2.Runde)</li>
 	<li>02.11.2008: Türkgücü Bendorf - TuS Koblenz II 1:8 (0:3)</li>
-	<li>04.11.2007: SC Freiburg - TuS Koblenz 4:2 (0:0)</li>
-	<li>07.11.2007: TuS Koblenz II - SG Brohltal/Burgbrohl 3:1 (0:1)</li>
-	<li>09.11.2007: TuS Koblenz U18 - JSG Rheinböllen 4:0 (1:0)</li>
-	<li>10.11.2007: TuS Koblenz U14 - SG 99 Andernach 3:1 (2:1)</li>
-	<li>10.11.2007: TuS Koblenz U15 - FC Germania Metternich II 2:3 (1:1)</li>
-	<li>11.11.2007: SV Waldesch - TuS Koblenz II 1:6 (1:2)</li>
-	<li>13.11.2007: TuS Koblenz - SC Paderborn 0:0 (0:0)</li>
-	<li>16.11.2007: SG Ahrweiler/Bad Neuenahr - TuS Koblenz U18 0:7 (0:3)</li>
-	<li>20.10.2007: JSG Bad Bodendorf - TuS Koblenz U15 2:3 (2:0)</li>
-	<li>23.11.2007: SV Wehen-Wiesbaden - TuS Koblenz 0:2 (0:0)</li>
-	<li>30.11.2007: TuS Koblenz II- TV Winningen 7:0 (6:0)</li>
-	<li>02.12.2007: TuS Koblenz U17 - 1.FC Saarbrücken 1:0 (0:0) </li>
-	<li>07.12.2007: Erzgebirge Aue - TuS Koblenz 0:0 (0:0)</li>
-	<li>08.12.2007: TuS Koblenz U13 - SV Untermosel Kobern 3:2 (1:2)</li>
-	<li>09.12.2007: SG Oberfell/Niederfell - TuS Koblenz II 1:9 (0:4)</li>
+	<li>04.11.2008: SC Freiburg - TuS Koblenz 4:2 (0:0)</li>
+	<li>07.11.2008: TuS Koblenz II - SG Brohltal/Burgbrohl 3:1 (0:1)</li>
+	<li>09.11.2008: TuS Koblenz U18 - JSG Rheinböllen 4:0 (1:0)</li>
+	<li>10.11.2008: TuS Koblenz U14 - SG 99 Andernach 3:1 (2:1)</li>
+	<li>10.11.2008: TuS Koblenz U15 - FC Germania Metternich II 2:3 (1:1)</li>
+	<li>11.11.2008: SV Waldesch - TuS Koblenz II 1:6 (1:2)</li>
+	<li>13.11.2008: TuS Koblenz - SC Paderborn 0:0 (0:0)</li>
+	<li>16.11.2008: SG Ahrweiler/Bad Neuenahr - TuS Koblenz U18 0:7 (0:3)</li>
+	<li>20.10.2008: JSG Bad Bodendorf - TuS Koblenz U15 2:3 (2:0)</li>
+	<li>23.11.2008: SV Wehen-Wiesbaden - TuS Koblenz 0:2 (0:0)</li>
+	<li>30.11.2008: TuS Koblenz II- TV Winningen 7:0 (6:0)</li>
+	<li>02.12.2008: TuS Koblenz U17 - 1.FC Saarbrücken 1:0 (0:0) </li>
+	<li>07.12.2008: Erzgebirge Aue - TuS Koblenz 0:0 (0:0)</li>
+	<li>08.12.2008: TuS Koblenz U13 - SV Untermosel Kobern 3:2 (1:2)</li>
+	<li>09.12.2008: SG Oberfell/Niederfell - TuS Koblenz II 1:9 (0:4)</li>
 	<li>05.01.2008: Hallenturnier: City Cup 2008, dritter Platz</li>
 	<li>09.01.2008: Bonner SC - TuS Koblenz 0:1 (0:0) (Test)</li>
 	<li>13.01.2008: Hallenturnier: Sesterhenn Cup 2008, vierter Platz</li>
