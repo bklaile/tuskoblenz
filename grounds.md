@@ -280,7 +280,7 @@ Für mich standen immer Auswärtsspiele der TuS Koblenz im Fokus. Im besten Fall
 	<li>2006: Veltins-Arena, Schalke (Freundschaftsspiel: Deutschland - Schweden)</li>
 	<li>2007: Hartplatz, Waldorf, (Kreispokal Ahr: SG Gönnersdorf/Waldorf II - SV Kürrenberg)</li>
 	<li>2007: Kunstrasenplatz, Rengsdorf (Testspiel: SV Rengsdorf U19 - FV Engers U17)</li>
-	<li>2008: Stadion des SV Ried, (<strong>Österreich</strong)> Ried (Österreich 1.Liga: SV Ried - SK Rapid Wien)</li>
+	<li>2008: Stadion des SV Ried, (<strong>Österreich</strong>) Ried (Österreich 1.Liga: SV Ried - SK Rapid Wien)</li>
 	<li>2008: Südweststadion, Ludwigshafen (Regionalliga Süd: FSV Oggersheim - Sportfreunde Siegen)</li>
 	<li>2008: Hartplatz, Andernach (Kreisliga C: SG 99 Andernach II - DJK Kruft/Kretz II 2:2)</li>
 	<li>2009: Gerhard Hanappi Stadion, Wien (Österreich 1.Liga: SK Rapid Wien - SV Ried)</li>
