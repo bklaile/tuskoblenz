@@ -930,6 +930,33 @@ Ab der Saison 2013/14 bin ich, vor allem was die Jugendspiele angeht, extrem kü
 	<li>20.05.2017: VfR Wormatia Worms - TuS Koblenz 2:1 (2:0)</li>
 	<li>25.05.2017: TuS Koblenz - SV Eintracht Trier 2:1 (2:0) (Rheinlandpokal, Finale)</li>
 	<li>10.06.2017: TuS Koblenz U17 - SV Eintracht Trier U17 6:1 (4:0) (Rheinlandpokal, Finale)</li>
+	<li>18.08.2017: TuS Koblenz - 1.FSV Mainz 05 U23 1:1 (0:1)</li>
+	<li>05.09.2017: SV Vesalia Oberwesel - TuS Koblenz 0:1 (0:0) (Rheinlandpokal, 2.Runde)</li>
+	<li>10.09.2017: TuS Koblenz U19 - FSV Offenbach 6:1</li>
+	<li>10.09.2017: TuS Koblenz U23 - SG Eintracht Mendig/Bell 0:0 (0:0)</li>
+	<li>16.09.2017: TuS Koblenz - TSV Eintracht Stadtallendorf 1:0 (0:0)</li>
+	<li>19.09.2017: SG Müden/Moselkern - TuS Koblenz 0:2 (0:1) (Rheinlandpokal, 3.Runde)</li>
+	<li>28.09.2017: TuS Koblenz - 1.FC Saarbrücken 1:1 (0:1)</li>
+	<li>08.10.2017: TuS Koblenz - Kickers Offenbach 0:1 (0:0)</li>
+	<li>13.10.2017: TSV Schott Mainz - TuS Koblenz 3:2 (2:0)</li>
+	<li>14.10.2017: TuS Koblenz U23 - TSV Emmelshausen 1:2 (1:0)</li>
+	<li>17.10.2017: SG Weitefeld - TuS Koblenz 1:6 (0:4) (Rheinlandpokal, Achtelfinale)</li>
+	<li>21.10.2017: TuS Koblenz - TSG Hoffenheim U23 0:1 (0:1)</li>
+	<li>27.10.2017: TSG Steinbach - TuS Koblenz 1:2 (0:2)</li>
+	<li>31.10.2017: TuS Koblenz - SSV Ulm von 1846 Fußball 2:2 (1:0)</li>
+	<li>03.11.2017: SG 2000 Mülheim-Kärlich - TuS Koblenz U23 1:2 (0:0)</li>
+	<li>05.11.2017: KSV Hessen Kassel - TuS Koblenz 1:1 (0:1)</li>
+	<li>10.11.2017: TuS Koblenz U23 - TuS Mayen 1:4 (0:0)</li>
+	<li>11.11.2017: TuS Koblenz - SV Elversberg 2:3 (2:2)</li>
+	<li>19.11.2017: TuS Koblenz - SV Röchling Völklingen 0:0 (0:0)</li>
+	<li>22.11.2017: SV Eintracht Trier - TuS Koblenz 0:3 (0:1) (Rheinlandpokal, Viertelfinale)</li>
+	<li>03.12.2017: TuS Koblenz - Stuttgarter Kickers 0:3 (0:0)</li>
+	<li>17.02.2018: VfR Wormatia Worms - TuS Koblenz 1:0 (1:0)</li>
+	<li>24.02.2018: TuS Koblenz - FC Astoria Walldorf 0:0 (0:0)</li>
+	<li>10.03.2018: TSV Eintracht Stadtallendorf - TuS Koblenz 1:2 (1:1)</li>
+	<li>10.03.2018: TuS Koblenz U19 - SV Eintracht Trier U19 2:1 (1:1)</li>
+	<li>24.03.2018: 1.FC Saarbrücken - TuS Koblenz 0:1 (0:0)</li>
+	<li>28.03.2018: TuS Koblenz - VfB Stuttgart U23 0:0 (0:0)</li>
 </ol>
 
 
