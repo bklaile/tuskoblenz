@@ -957,6 +957,7 @@ Ab der Saison 2013/14 bin ich, vor allem was die Jugendspiele angeht, extrem kü
 	<li>10.03.2018: TuS Koblenz U19 - SV Eintracht Trier U19 2:1 (1:1)</li>
 	<li>24.03.2018: 1.FC Saarbrücken - TuS Koblenz 0:1 (0:0)</li>
 	<li>28.03.2018: TuS Koblenz - VfB Stuttgart U23 0:0 (0:0)</li>
+	<li>02.04.2018: Kickers Offenbach - TuS Koblenz 2:3 (1:1)</li>
 </ol>
 
 
