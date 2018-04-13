@@ -959,6 +959,7 @@ Ab der Saison 2013/14 bin ich, vor allem was die Jugendspiele angeht, extrem kü
 	<li>28.03.2018: TuS Koblenz - VfB Stuttgart U23 0:0 (0:0)</li>
 	<li>02.04.2018: Kickers Offenbach - TuS Koblenz 2:3 (1:1)</li>
 	<li>08.04.2018: TuS Koblenz - TSV Schott Mainz 1:1 (1:0)</li>
+	<li>11.04.2018: VfB Wissen - TuS Koblenz 0:3 (0:3) (Rheinlandpokal, Halbfinale)</li>
 </ol>
 
 
