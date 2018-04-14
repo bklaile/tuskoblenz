@@ -961,6 +961,7 @@ Ab der Saison 2013/14 bin ich, vor allem was die Jugendspiele angeht, extrem kü
 	<li>08.04.2018: TuS Koblenz - TSV Schott Mainz 1:1 (1:0)</li>
 	<li>11.04.2018: VfB Wissen - TuS Koblenz 0:3 (0:3) (Rheinlandpokal, Halbfinale)</li>
 	<li>13.04.2018: JSG Bendorf-Sayn U13 II - TuS Koblenz U13 II 1:4 (0:2)</li>
+	<li>14.04.2018: TuS Koblenz U13 III - BSC Güls U13 8:1 (2:0)</li>
 </ol>
 
 
