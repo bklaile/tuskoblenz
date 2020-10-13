@@ -1058,7 +1058,7 @@ Ab der Saison 2013/14 bin ich, vor allem was die Jugendspiele angeht, extrem kü
 	<li>24.11.2019: TuS Koblenz II - VfL Kesselheim II 0:6 (0:2)</li>
 	<li>30.11.2019: FV Diefflen - TuS Koblenz 3:2 (2:2)</li>
 	<li>25.01.2020: SG Argenthal/Liebshausen/Mörschbach - TuS Koblenz 2:4 (0:4)</li>
-	<li>01.02.2020: TuS Koblenz II - SV Niederwerth III 6:2 (0:4)</li>
+	<li>01.02.2020: TuS Koblenz II - SV Niederwerth III 6:2 (3:2)</li>
 	<li>08.02.2020: FC Hennef 05 - TuS Koblenz 3:1 (2:0) (Test)</li>
 	<li>09.02.2020: FC Urbar III - TuS Koblenz II 5:2 (1:2) (Test)</li>
 	<li>15.02.2020: TuS Koblenz - SV Rot-Weiß Hadamar 1:3 (0:1) (Test)</li>
@@ -1068,6 +1068,27 @@ Ab der Saison 2013/14 bin ich, vor allem was die Jugendspiele angeht, extrem kü
 	<li>06.03.2020: TuS Koblenz II - TV Winningen 5:4 (4:1)</li>
 	<li>07.03.2020: SV Gonsenheim - TuS Koblenz 1:2 (1:1)</li>
 	<li>12.03.2020: TuS Koblenz II - SSV Urmitz/Bahnhof 1:1 (0:0) (letztes Spiel vor dem Corona-bedingten Saisonabbruch)</li>
+	<li>31.07.2020: SG 99 Andernach - TuS Koblenz 0:4 (0:1) (Test)</li>
+	<li>01.08.2020: FC Urbar III - TuS Koblenz II 7:0 (2:0) (Test)</li>
+	<li>05.08.2020: SG Argenthal/Liebshausen/Mörschbach - TuS Koblenz 0:2 (0:1) (Test)</li>
+	<li>08.08.2020: Siegburger SV 04 - TuS Koblenz 1:1 (0:1) (Test)</li>
+	<li>19.08.2020: TuS Montabaur - TuS Koblenz 1:1 (1:0) (Test)</li>
+	<li>22.08.2020: FC Metternich - TuS Koblenz 0:4 (0:1) (Test)</li>
+	<li>30.08.2020: SpvGG Cochem - TuS Koblenz 2:4 n.V. (1:0,2:2) (Rheinlandpokal, 1.Runde)</li>
+	<li>05.09.2020: TuS Koblenz - FSV Salmrohr 0:2 (0:0)</li>
+	<li>05.09.2020: TuS Koblenz - FC Arzheim II 9:0 (1:0)</li>
+	<li>09.09.2020: Sportfreunde Eisbachtal - TuS Koblenz 2:0 (0:0)</li>
+	<li>12.09.2020: FC Karbach - TuS Koblenz 1:0 (1:1)</li>
+	<li>13.09.2020: SC Vallendar II - TuS Koblenz II 2:4 (2:1) (nur 30min)</li>
+	<li>19.09.2020: TuS Koblenz II - SV Niederwerth III 1:2 (0:1)</li>
+	<li>20.09.2020: TuS Koblenz - SG Mülheim-Kärlich 2:1 (1:0)</li>
+	<li>26.09.2020: SV Alemannia Waldalgesheim - TuS Koblenz 1:2 (0:0)</li>
+	<li>26.09.2020: TuS Koblenz II - FC Cosmos Koblenz II 3:2 (1:1)</li>
+	<li>03.10.2020: TuS Koblenz - SG Gonsenheim 0:1 (0:0)</li>
+	<li>04.10.2020: TV Mülhofen II - TuS Koblenz II 3:1 (2:1)</li>
+	<li>07.10.2020: TuS Kettig - TuS Koblenz 0:5 (0:4) (Rheinlandpokal, 2.Runde)</li>
+	<li>09.10.2020: TuS Koblenz II - SG Augst Eitelborn II 5:0 (1:0)</li>
+	<li>10.10.2020: SV Eintracht Trier - TuS Koblenz 2:0 (1:0)</li>
 </ol>
 
 
