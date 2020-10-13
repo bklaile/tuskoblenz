@@ -963,6 +963,59 @@ Ab der Saison 2013/14 bin ich, vor allem was die Jugendspiele angeht, extrem kü
 	<li>13.04.2018: JSG Bendorf-Sayn U13 II - TuS Koblenz U13 II 1:4 (0:2)</li>
 	<li>14.04.2018: TuS Koblenz U13 III - BSC Güls U13 8:1 (2:0)</li>
 	<li>15.04.2018: TSG Hoffenheim U23 - TuS Koblenz 2:2 (1:0)</li>
+	<li>21.04.2018: TuS Koblenz - TSV Steinbach 0:1 (0:1)</li>
+	<li>24.04.2018: TuS Koblenz - SV Waldhof Mannheim 0:2 (0:2)</li>
+	<li>29.04.2018: TSV Emmelshausen - TuS Koblenz II 2:0 (1:0)</li>
+	<li>05.05.2018: TuS Koblenz - KSV Hessen Kassel 1:0 (1:0)</li>
+	<li>06.05.2018: TuS Koblenz II - Sportfreunde Eisbachtal 0:2 (0:0)</li>
+	<li>12.05.2018: SV Elversberg - TuS Koblenz 0:4 (0:1)</li>
+	<li>19.05.2018: TuS Koblenz II - SG 2000 Mülheim-Kärlich 3:0 (2:0)</li>
+	<li>21.05.2018: TuS Koblenz - TuS RW Koblenz 0:1 (0:0)</li>
+	<li>07.07.2018: Spvgg EGC Wirges - TuS Koblenz 1:3 (1:0)</li>
+	<li>27.07.2018: TuS Koblenz - FV Engers 1:4 (1:1)</li>
+	<li>05.08.2018: TuS RW Koblenz - TuS Koblenz 4:1 (2:1)</li>
+	<li>08.08.2018: TuS Koblenz - FC Arminia Ludwigshafen 0:0 (0:0)</li>
+	<li>11.08.2018: FV Diefflen - TuS Koblenz 0:4 (0:1)</li>
+	<li>21.08.2018: TuS Koblenz - TSV Schott Mainz 1:2 (0:0)</li>
+	<li>26.08.2018: TSG Pfeddersheim - TuS Koblenz  (:)</li>
+	<li>31.08.2018: SG Treis-Karden - TuS Koblenz 1:3 n.V. (1:1)</li>
+	<li>06.09.2018: TuS Koblenz - 1.FSV Mainz 05 0:2 (0:1)</li>
+	<li>08.09.2018: FC Karbach - TuS Koblenz 0:1 (0:0)</li>
+	<li>15.09.2018: TuS Koblenz - TuS Mechtersheim 2:0 (0:0)</li>
+	<li>19.09.2018: Ahrweiler BC - TuS Koblenz 0:2 (0:0)</li>
+	<li>23.09.2018: SV Eintracht Trier - TuS Koblenz 3:3 (2:0)</li>
+	<li>29.09.2018: BFV Hassia Bingen - TuS Koblenz 1:3 (0:2)</li>
+	<li>03.10.2018: TuS Koblenz - FSV Jägersburg 1:1 (0:1)</li>
+	<li>06.10.2018: TuS Koblenz - SC 07 Idar-Oberstein 2:2 (0:1)</li>
+	<li>13.10.2018: VfB Dillingen - TuS Koblenz / Spielabbruch nach 70min beim Stand von 2:1 für die TuS aufgrund von Platzsturm und "Schiri hat danach die Hose voll"</li>
+	<li>17.10.2018: SV Morbach - TuS Koblenz 0:1 n.V. (0:0)</li>
+	<li>20.10.2018: TuS Koblenz - FC Hertha Wiesbach 0:0 (0:0)</li>
+	<li>26.10.2018: SV Röchling Völklingen - TuS Koblenz 1:3 (0:1)</li>
+	<li>03.11.2018: TuS Koblenz - TSV Emmelshausen 2:1 (0:0)</li>
+	<li>10.11.2018: 1.FC Kaiserslautern U21 - TuS Koblenz 0:2 (0:2)</li>
+	<li>14.11.2018: TuS Koblenz - SV Eintracht Trier 5:3 n.E. (0:1, 1:1)</li>
+	<li>23.11.2018: FV Engers - TuS Koblenz 0:2 (0:1)</li>
+	<li>01.12.2018: TuS Koblenz - TuS RW Koblenz 1:1 (1:0)</li>
+	<li>09.02.2019: VfB Dillingen - TuS Koblenz 0:4 (0:1) (Wiederholungsspiel)</li>
+	<li>17.02.2019: FC Arminia Ludwigshafen - TuS Koblenz 0:2 (0:0)</li>
+	<li>23.02.2019: TuS Koblenz - FV Diefflen 0:0 (0:0)</li>
+	<li>09.03.2019: TSV Schott Mainz - TuS Koblenz 1:1 (0:1)</li>
+	<li>17.03.2019: TuS Koblenz - TSG Pfeddersheim 0:0 (0:0)</li>
+	<li>20.03.2019: Sportfreunde Eisbachtal - TuS Koblenz 1:4 n.V. (0:1,1:1)</li>
+	<li>24.03.2019: FSV Jägersburg - TuS Koblenz 0:1 (0:1)</li>
+	<li>30.03.2019: TuS Koblenz - FC Karbach 1:4 (1:2)</li>
+	<li>06.04.2019: TuS Mechtersheim - TuS Koblenz 2:1 (0:0)</li>
+	<li>14.04.2019: TuS Koblenz - SV Eintracht Trier 2:0 (0:0)</li>
+	<li>20.04.2019: TuS Koblenz - BFV Hassia Bingen 4:0 (2:0)</li>
+	<li>09.04.2019: SC 07 Idar-Oberstein - TuS Koblenz 1:1 (0:0)</li>
+	<li>01.05.2019: TuS Koblenz - 1.FC Kaiserslautern II 0:2 (0:0)</li>
+	<li>04.05.2019: TuS Koblenz - VfB Dillingen 3:0 (1:0)</li>
+	<li>10.05.2019: FC Hertha Wiesbach - TuS Koblenz 0:0 (0:0)</li>
+	<li>18.05.2019: TuS Koblenz - SV Röchling Völklingen 2:1 (0:1)</li>
+	<li>22.05.2019: TSV Emmelshausen - TuS Koblenz 1:2 (1:0)</li>
+	<li>25.05.2019: FSV Salmrohr - TuS Koblenz 6:5 n.E. (0:1,2:2)</li>
+	<li>13.07.2019: TuS Koblenz - Fortuna Düsseldorf U23 2:3 (0:2)</li>
+	<li>17.07.2019: SG Altenkirchen/Neitersen - TuS Koblenz 1:3 (1:1)</li>
 </ol>
 
 
