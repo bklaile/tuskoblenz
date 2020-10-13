@@ -970,7 +970,7 @@ Ab der Saison 2013/14 bin ich, vor allem was die Jugendspiele angeht, extrem kü
 	<li>06.05.2018: TuS Koblenz II - Sportfreunde Eisbachtal 0:2 (0:0)</li>
 	<li>12.05.2018: SV Elversberg - TuS Koblenz 0:4 (0:1)</li>
 	<li>19.05.2018: TuS Koblenz II - SG 2000 Mülheim-Kärlich 3:0 (2:0)</li>
-	<li>21.05.2018: TuS Koblenz - TuS RW Koblenz 0:1 (0:0)</li>
+	<li>21.05.2018: TuS Koblenz - TuS RW Koblenz 0:1 (0:0) (Rheinlandpokal, Finale)</li>
 	<li>07.07.2018: Spvgg EGC Wirges - TuS Koblenz 1:3 (1:0)</li>
 	<li>27.07.2018: TuS Koblenz - FV Engers 1:4 (1:1)</li>
 	<li>05.08.2018: TuS RW Koblenz - TuS Koblenz 4:1 (2:1)</li>
@@ -978,22 +978,22 @@ Ab der Saison 2013/14 bin ich, vor allem was die Jugendspiele angeht, extrem kü
 	<li>11.08.2018: FV Diefflen - TuS Koblenz 0:4 (0:1)</li>
 	<li>21.08.2018: TuS Koblenz - TSV Schott Mainz 1:2 (0:0)</li>
 	<li>26.08.2018: TSG Pfeddersheim - TuS Koblenz  (:)</li>
-	<li>31.08.2018: SG Treis-Karden - TuS Koblenz 1:3 n.V. (1:1)</li>
-	<li>06.09.2018: TuS Koblenz - 1.FSV Mainz 05 0:2 (0:1)</li>
+	<li>31.08.2018: SG Treis-Karden - TuS Koblenz 1:3 n.V. (1:1) (Rheinlandpokal, 2.Runde)</li>
+	<li>06.09.2018: TuS Koblenz - 1.FSV Mainz 05 0:2 (0:1) (Test)</li>
 	<li>08.09.2018: FC Karbach - TuS Koblenz 0:1 (0:0)</li>
 	<li>15.09.2018: TuS Koblenz - TuS Mechtersheim 2:0 (0:0)</li>
-	<li>19.09.2018: Ahrweiler BC - TuS Koblenz 0:2 (0:0)</li>
+	<li>19.09.2018: Ahrweiler BC - TuS Koblenz 0:2 (0:0) (Rheinlandpokal, 3.Runde)</li>
 	<li>23.09.2018: SV Eintracht Trier - TuS Koblenz 3:3 (2:0)</li>
 	<li>29.09.2018: BFV Hassia Bingen - TuS Koblenz 1:3 (0:2)</li>
 	<li>03.10.2018: TuS Koblenz - FSV Jägersburg 1:1 (0:1)</li>
 	<li>06.10.2018: TuS Koblenz - SC 07 Idar-Oberstein 2:2 (0:1)</li>
 	<li>13.10.2018: VfB Dillingen - TuS Koblenz / Spielabbruch nach 70min beim Stand von 2:1 für die TuS aufgrund von Platzsturm und "Schiri hat danach die Hose voll"</li>
-	<li>17.10.2018: SV Morbach - TuS Koblenz 0:1 n.V. (0:0)</li>
+	<li>17.10.2018: SV Morbach - TuS Koblenz 0:1 n.V. (0:0) (Rheinlandpokal, Achtelfinale)</li>
 	<li>20.10.2018: TuS Koblenz - FC Hertha Wiesbach 0:0 (0:0)</li>
 	<li>26.10.2018: SV Röchling Völklingen - TuS Koblenz 1:3 (0:1)</li>
 	<li>03.11.2018: TuS Koblenz - TSV Emmelshausen 2:1 (0:0)</li>
 	<li>10.11.2018: 1.FC Kaiserslautern U21 - TuS Koblenz 0:2 (0:2)</li>
-	<li>14.11.2018: TuS Koblenz - SV Eintracht Trier 5:3 n.E. (0:1, 1:1)</li>
+	<li>14.11.2018: TuS Koblenz - SV Eintracht Trier 5:3 n.E. (0:1, 1:1) (Rheinlandpokal, Viertelfinale)</li>
 	<li>23.11.2018: FV Engers - TuS Koblenz 0:2 (0:1)</li>
 	<li>01.12.2018: TuS Koblenz - TuS RW Koblenz 1:1 (1:0)</li>
 	<li>09.02.2019: VfB Dillingen - TuS Koblenz 0:4 (0:1) (Wiederholungsspiel)</li>
@@ -1001,7 +1001,7 @@ Ab der Saison 2013/14 bin ich, vor allem was die Jugendspiele angeht, extrem kü
 	<li>23.02.2019: TuS Koblenz - FV Diefflen 0:0 (0:0)</li>
 	<li>09.03.2019: TSV Schott Mainz - TuS Koblenz 1:1 (0:1)</li>
 	<li>17.03.2019: TuS Koblenz - TSG Pfeddersheim 0:0 (0:0)</li>
-	<li>20.03.2019: Sportfreunde Eisbachtal - TuS Koblenz 1:4 n.V. (0:1,1:1)</li>
+	<li>20.03.2019: Sportfreunde Eisbachtal - TuS Koblenz 1:4 n.V. (0:1,1:1) (Rheinlandpokal, Halbfinale)</li>
 	<li>24.03.2019: FSV Jägersburg - TuS Koblenz 0:1 (0:1)</li>
 	<li>30.03.2019: TuS Koblenz - FC Karbach 1:4 (1:2)</li>
 	<li>06.04.2019: TuS Mechtersheim - TuS Koblenz 2:1 (0:0)</li>
@@ -1013,9 +1013,61 @@ Ab der Saison 2013/14 bin ich, vor allem was die Jugendspiele angeht, extrem kü
 	<li>10.05.2019: FC Hertha Wiesbach - TuS Koblenz 0:0 (0:0)</li>
 	<li>18.05.2019: TuS Koblenz - SV Röchling Völklingen 2:1 (0:1)</li>
 	<li>22.05.2019: TSV Emmelshausen - TuS Koblenz 1:2 (1:0)</li>
-	<li>25.05.2019: FSV Salmrohr - TuS Koblenz 6:5 n.E. (0:1,2:2)</li>
-	<li>13.07.2019: TuS Koblenz - Fortuna Düsseldorf U23 2:3 (0:2)</li>
-	<li>17.07.2019: SG Altenkirchen/Neitersen - TuS Koblenz 1:3 (1:1)</li>
+	<li>25.05.2019: FSV Salmrohr - TuS Koblenz 6:5 n.E. (0:1,2:2) (Rheinlandpokal, Finale)</li>
+	<li>13.07.2019: TuS Koblenz - Fortuna Düsseldorf U23 2:3 (0:2) (Test)</li>
+	<li>17.07.2019: SG Altenkirchen/Neitersen - TuS Koblenz 1:3 (1:1) (Test)</li>
+	<li>26.07.2019: FC Hertha Wiesbach - TuS Koblenz 0:2 (0:0)</li>
+	<li>01.08.2019: SV Niederwerth III - TuS Koblenz II 2:1 (1:1) (Test)</li>
+	<li>04.08.2019: TuS Koblenz - FV Diefflen 1:0 (1:0)</li>
+	<li>07.08.2019: VfR Koblenz II - TuS Koblenz II 5:2 (1:1) (Test)</li>
+	<li>11.08.2019: TuS Koblenz II - SV Pfaffendorf II 3:0 (2:0) (Test)</li>
+	<li>13.08.2019: SC Simmern - TuS Koblenz II 5:0 (2:0) (Test)</li>
+	<li>14.08.2019: TuS Koblenz - SV Gonsenheim 1:1 (0:0)</li>
+	<li>16.08.2019: TuS Koblenz II - VfR Koblenz III 1:4 (1:4)</li>
+	<li>17.08.2019: TSV Schott Mainz - TuS Koblenz 1:1 (0:1)</li>
+	<li>21.08.2019: SV Röchling Völklingen - TuS Koblenz 0:1 (0:1)</li>
+	<li>24.08.2019: TuS Koblenz - FC Arminia Ludwigshafen 1:0 (1:0)</li>
+	<li>25.08.2019: VfL Kesselheim II - TuS Koblenz II 10:1 (4:1)</li>
+	<li>29.08.2019: TV Winningen - TuS Koblenz 4:1 (1:1)</li>
+	<li>31.08.2019: Sportfreunde Eisbachtal - TuS Koblenz 0:3 (0:2)</li>
+	<li>06.09.2019: SSV Urmitz/Bahnhof - TuS Koblenz II 8:1 (3:0)</li>
+	<li>08.09.2019: FV Rübenach - TuS Koblenz 1:2 (0:0) (Rheinlandpokal, 2.Runde)</li>
+	<li>14.09.2019: SV Eintracht Trier - TuS Koblenz 3:2 (2:1)</li>
+	<li>15.09.2019: TuS Kettig II - TuS Koblenz II 6:2 (3:0)</li>
+	<li>18.09.2019: SG Eintracht Mendig/Bell - TuS Koblenz 0:4 n.V. (0:0,0:0) (Rheinlandpokal, 3.Runde)</li>
+	<li>21.09.2019: TuS Koblenz - SV Elversberg II 5:0 (1:0)</li>
+	<li>25.09.2019: TuS Koblenz II - FC Germania Metternich II 2:6  (2:2) (Kreispokal, 2.Runde)</li>
+	<li>28.09.2019: FC Karbach - TuS Koblenz 1:2 (0:2)</li>
+	<li>29.09.2019: TuS Koblenz - BSV Weißenthurm 2:2 (0:0)</li>
+	<li>02.10.2019: SG Rheindörfer II - TuS Koblenz 2:2 (1:0)</li>
+	<li>05.10.2019: TuS Koblenz - 1.FC Kaiserslautern U21 0:2 (0:2)</li>
+	<li>06.10.2019: FC Bassenheim - TuS Koblenz II 8:1 (3:0)</li>
+	<li>11.10.2019: TuS Koblenz II - SG Rhens/Spay/Waldesch III 1:2 (0:1)</li>
+	<li>12.10.2019: BFV Hassia Bingen - TuS Koblenz 1:4 (1:1)</li>
+	<li>16.10.2019: SG 2000 Mülheim-Kärlich - TuS Koblenz 3:1 n.E. (0:0,0:0) (Rheinlandpokal, Achtelfinale)</li>
+	<li>18.10.2019: SG Moseltal III - TuS Koblenz II 7:0 (5:0)</li>
+	<li>19.10.2019: TuS Koblenz - FV Dudenhofen 1:5 (0:2)</li>
+	<li>25.10.2019: TuS Koblenz II - TuS Neuendorf II 4:1 (später annulliert, da Neuendorf II zurückgezogen hat)</li>
+	<li>26.10.2019: TuS Koblenz - TuS Mechtersheim 0:1 (0:1)</li>
+	<li>31.10.2019: TuS FV Engers - TuS Koblenz 2:0 (0:0)</li>
+	<li>04.11.2019: TuS Koblenz II - TV Mülhofen III 7:3 (3:1)</li>
+	<li>09.11.2019: TuS Koblenz - TSG Pfeddersheim 1:0 (1:0)</li>
+	<li>10.11.2019: ATA Sport Urmitz II - TuS Koblenz II 5:2 (1:2)</li>
+	<li>16.11.2019: TuS Koblenz - VfR Wormatia Worms 1:0 (0:0)</li>
+	<li>23.11.2019: TuS Koblenz - FC Hertha Wiesbach 1:1 (0:0)</li>
+	<li>24.11.2019: TuS Koblenz II - VfL Kesselheim II 0:6 (0:2)</li>
+	<li>30.11.2019: FV Diefflen - TuS Koblenz 3:2 (2:2)</li>
+	<li>25.01.2020: SG Argenthal/Liebshausen/Mörschbach - TuS Koblenz 2:4 (0:4)</li>
+	<li>01.02.2020: TuS Koblenz II - SV Niederwerth III 6:2 (0:4)</li>
+	<li>08.02.2020: FC Hennef 05 - TuS Koblenz 3:1 (2:0) (Test)</li>
+	<li>09.02.2020: FC Urbar III - TuS Koblenz II 5:2 (1:2) (Test)</li>
+	<li>15.02.2020: TuS Koblenz - SV Rot-Weiß Hadamar 1:3 (0:1) (Test)</li>
+	<li>16.02.2020: SV Pfaffendorf II - TuS Koblenz II 1:2 (1:2) (Test)</li>
+	<li>22.02.2020: TuS Koblenz - TSV Emmelshausen 1:1 (1:1) (Test)</li>
+	<li>29.02.2020: TuS Koblenz - SV Röchling Völklingen 3:2 (0:1)</li>
+	<li>06.03.2020: TuS Koblenz II - TV Winningen 5:4 (4:1)</li>
+	<li>07.03.2020: SV Gonsenheim - TuS Koblenz 1:2 (1:1)</li>
+	<li>12.03.2020: TuS Koblenz II - SSV Urmitz/Bahnhof 1:1 (0:0) (letztes Spiel vor dem Corona-bedingten Saisonabbruch)</li>
 </ol>
 
 
